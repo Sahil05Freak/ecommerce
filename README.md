@@ -12,5 +12,8 @@ To begin to use this website please check the follwing steps
 5. In Customer login:
    You can add product to the cart by clicking on add to cart button.
    In Cart section you can checkout at place the order.
+6. Postgres db is use as database. Please check the file "ecommerve_db_backup.sql", it is a backup file which can be restore in the postgres database.
+7. Check the .env file for database connection details and database name. 
+
 
 Thank you for using the application.
